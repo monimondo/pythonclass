@@ -18,4 +18,3 @@ print ("A média do aluno é:" + str(media))
 # Apresentar o resultado com mensagem motivacional.
 if media > 7 : print ('Parabéns! o aluno está aprovado.')
 if media < 7 : print ('Lamentamos, o aluno está reprovado.')
-
