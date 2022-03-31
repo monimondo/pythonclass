@@ -16,3 +16,5 @@ novo_salario = salario + aumento
 #apresentar o resultado
 print (f"O valor do aumento será de: R${aumento:.2f}")
 print (f"O salário ajustado será de R$ {novo_salario:.2f}")
+
+#programa concluído com sucesso!
