@@ -1,4 +1,3 @@
-# from tkinter import dialog
 # Escreva uma expressão que será utilizada para decidir se um aluno foi ou não aprovado. 
 # Para ser aprovado a média do aluno deve ser maior ou igual a 7.
 
